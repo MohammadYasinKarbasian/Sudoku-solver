@@ -69,7 +69,7 @@ while(RESTART>0):
         print(f'In generation {generation} MAX was {max_fitness}')
         if max_fitness == 108:
             print('Wow we find solution:\n')
-            print(population[index])
+            print(population[max_indice])
             exit(0)
         #parent selection
         parent_num = int(POPULATION_COUNT/2)
