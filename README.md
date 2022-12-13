@@ -32,7 +32,6 @@ In generation 2 MAX was 87
 In generation 3 MAX was 88
 In generation 4 MAX was 88
 In generation 5 MAX was 88
-In generation 6 MAX was 91
 ......
 In generation 30 MAX was 106
 In generation 31 MAX was 106
@@ -84,10 +83,6 @@ In generation 2 MAX was 77
 In generation 3 MAX was 77
 In generation 4 MAX was 81
 In generation 5 MAX was 81
-In generation 6 MAX was 81
-In generation 7 MAX was 82
-In generation 8 MAX was 85
-In generation 9 MAX was 85
 ......
 In generation 1803 MAX was 106
 In generation 1804 MAX was 106
